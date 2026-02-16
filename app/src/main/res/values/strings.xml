@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ٹیکسی میٹر</string>
+    <string name="welcome_message">خوش آمدید</string>
+    <string name="enter_destination">منزل درج کریں</string>
+    <string name="calculate_fare">کرایہ حساب کریں</string>
+    <string name="fare">کرایہ</string>
+    <string name="settings">سیٹنگز</string>
+    <string name="about">کے بارے میں</string>
+</resources>
